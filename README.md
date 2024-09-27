@@ -12,7 +12,7 @@ Voici une présentation sur "Le Génie", une idée d'un projet d'installation mu
 
 L'utilisateur accède à une page web interactive où il fait des choix parmi une sélection limitée de vœux. Ces choix influencent directement l'animation et la narration du personnage en temps réel.
 
-4. Scénario
+### Scénario
 Scénario interactif :
 Le visiteur se trouve face à plusieurs options de vœux ex:
 -Souhaiter la paix mondiale. 
@@ -28,7 +28,16 @@ Le Génie présente une façade bienveillante, mais chaque vœu révèle une fac
 Exploration de l'utilisateur :
 L'utilisateur navigue dans une interface minimaliste mais immersive, lui permettant de choisir un vœu. L’interaction est intuitive et les conséquences de chaque choix sont immédiates.
 Traçabilité des choix : Le système pourrait enregistrer les choix pour offrir des statistiques anonymisées à la fin, montrant les préférences des visiteurs et les choix les plus populaires.
-6. Ambiance
+
+
+
+### Ambiance
+-Inspiration pour l'ambiance :
+
+-Inpspiration pour la projection vidéo :
+
+-Palette de couleur :
+
 Planche d’ambiances visuelles :
 Des tons sombres, froids et métalliques, inspirés de Blade Runner. Les couleurs néon et les contrastes marqués entre ombre et lumière accentuent l’atmosphère dystopique.
 Images de gratte-ciels futuristes, de déserts urbains, et de silhouettes énigmatiques.
@@ -43,33 +52,26 @@ Environnements : Cités cyberpunk, désert numérique, environnements urbains po
 Sonores :
 Musiques : Compositeurs comme Hans Zimmer pour des sons électroniques et orchestraux combinés.
 Soundscapes de Blade Runner et Westworld pour une atmosphère immersive et intense.
-8. Technologies
-Support médiatique :
 
+
+
+### Technologies
+
+-Les technologies utilisées :
 Vidéo : Projection vidéo haute résolution pour le personnage 3D.
 Audio : Systèmes de diffusion sonore directionnelle pour accompagner les animations du Génie.
 Lumières : Utilisation de LEDs et de lumières d'ambiance pour accentuer le côté futuriste.
 Capteurs : Capteurs de mouvement ou tactiles pour capter les interactions du visiteur avec la tablette.
-Matériel :
 
-Technologies interactives : Utilisation de capteurs tactiles pour permettre une interaction fluide avec les choix de l’utilisateur.
-Interfaces : Une tablette ou un ordinateur comme interface principale pour le choix des vœux.
-Logiciels : Logiciels d’animation 3D (comme Unity ou Unreal Engine) pour l’intégration du personnage et l’interaction en temps réel.
-Logiciels :
+-Interfaces : Une tablette ou un ordinateur comme interface principale pour le choix des vœux.
 
+-Logiciels : Logiciels d’animation 3D (comme Unity ou Unreal Engine) pour l’intégration du personnage et l’interaction en temps réel.
 Unity 3D : Pour la gestion des animations en temps réel du Génie.
 WebSockets : Pour la communication instantanée entre la tablette et le moteur d’animation du personnage.
+Maya : Pour la création du personnage 3D
 OSC/MIDI : Pour la synchronisation audio et vidéo.
 Réseautage et Communication :
 
 Utilisation de WebSockets pour la communication bidirectionnelle entre la page web de l’utilisateur et le serveur qui gère les animations et dialogues du Génie.
 Protocoles OSC pour coordonner les déclenchements audio et visuels.
-9. Critères d'évaluation
-Clarté de l'idée : L’idée du Génie et des vœux est présentée de manière concise, facile à comprendre et immersive.
-Scénarisation fonctionnelle : Chaque vœu a un effet tangible et différent sur l’animation et la narration.
-Cohérence esthétique : L’univers visuel et sonore reflète un monde dystopique et cybernétique, avec une forte inspiration des œuvres de science-fiction moderne.
-Précision technique : Les choix de technologies sont alignés avec l’objectif d’une interaction en temps réel fluide et immersive.
-10. Présentation générale
-Durée : 5 à 7 minutes, avec une présentation claire et engageante de l'idée, du scénario, des choix esthétiques et des technologies.
-Visuels et Moodboard : Inclure des exemples d'ambiances visuelles et sonores ainsi qu’un schéma interactif du scénario.
 
