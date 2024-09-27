@@ -1,6 +1,6 @@
 # Idée de projet multimédia
 ## Le Génie
-
+Présentation par Daniel Dezemma
 
 Voici une présentation sur "Le Génie", une idée d'un projet d'installation multimédia :
 
