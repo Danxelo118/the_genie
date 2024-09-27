@@ -33,7 +33,7 @@ Traçabilité des choix : Le système pourrait enregistrer les choix pour offrir
 
 ### Ambiance
 -Inspiration pour l'ambiance :
-
+![idee-principal.jpg](idee-principal.jpg)
 -Inpspiration pour la projection vidéo :
 
 -Palette de couleur :
