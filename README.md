@@ -1,21 +1,23 @@
-Voici une présentation adaptée pour "The Genie", un projet d'installation multimédia :
+# Idée de projet multimédia
+## Le Génie
 
-1. Idée et Concept
-Concept central : Le projet "The Genie" est une installation interactive où un personnage 3D (le Génie) réagit à des choix faits par les utilisateurs via une tablette ou un ordinateur. Chaque décision entraîne une animation et un dialogue distincts du Génie, créant une expérience unique pour chaque visiteur.
-Structure : L'utilisateur accède à une page web interactive où il fait des choix parmi une sélection limitée de vœux. Ces choix influencent directement l'animation et la narration du personnage en temps réel.
-2. Objectifs
-Message/Émotion : Explorer les dilemmes moraux et les conséquences des vœux en confrontant l’utilisateur à des choix significatifs, comme souhaiter la paix mondiale ou la mort d'une célébrité. Le projet interroge le pouvoir des désirs et la complexité de leurs répercussions.
-Interaction immersive : Proposer une expérience interactive immersive, où chaque décision apporte une nouvelle perspective, renforçant la sensation de pouvoir et de responsabilité entre les mains du visiteur.
-3. Motivations
-Motivations créatives :
-Créer un environnement qui rappelle les ambiances de Westworld, Black Mirror, ou Blade Runner, des univers qui traitent de l’intelligence artificielle, de la technologie, et de la condition humaine.
-Utiliser des technologies multimédia pour rendre les interactions fluides et visuellement immersives, tout en apportant une réflexion sur les choix éthiques.
+
+Voici une présentation sur "Le Génie", une idée d'un projet d'installation multimédia :
+
+
+### Idée et Concept
+ J'aimerais réaliser un projet inspiré de quelques un de mes oeuvres préférées portant sur la dystopie et l'aspect futuristique. Je veux créer un environnement qui rappelle les ambiances de Westworld, Black Mirror, ou Blade Runner, des univers qui traitent de l’intelligence artificielle, de la technologie, et de la condition humaine. Le projet "Le Génie" est une installation interactive où un personnage en 3D réagit à des choix (voeux) faits par les utilisateurs via une tablette ou ordinateur (peut-être mobile via code QR) sur une page web interactive. 
+ 
+ Chaque choix entraîne une animation et un dialogue différent du Génie. Je souhaite ajouter un aspect philosophique à l'oeuvre en explorant des dilemmes moraux et les conséquences des voeux en confrontant l'utilisateur à des choix signicatifs. Le projet interroge le pouvoir des désirs et de la complexité de leurs répercussions. Je veux également proposer une expérience interactive immersive en renforcant la sensationde pouvoir et de responsabilité entre les mains de l'utilisateur à chaque prise de décision.
+
+L'utilisateur accède à une page web interactive où il fait des choix parmi une sélection limitée de vœux. Ces choix influencent directement l'animation et la narration du personnage en temps réel.
+
 4. Scénario
 Scénario interactif :
-Le visiteur se trouve face à plusieurs options de vœux :
-Souhaiter la paix mondiale.
-Souhaiter la mort d'une célébrité (comme Taylor Swift).
-Souhaiter devenir milliardaire.
+Le visiteur se trouve face à plusieurs options de vœux ex:
+-Souhaiter la paix mondiale. 
+-Souhaiter la mort d'une célébrité ou politicien controversé (comme Kanye West ou Donald Trump).
+-Souhaiter devenir riche/milliardaire.
 Chaque vœu déclenche une animation et un dialogue uniques du Génie, avec des réponses émotionnelles et des conséquences narratives qui varient.
 Logigramme de l'interactivité :
 Début → Choix du vœu → Réaction du Génie → Dialogue personnalisé → Résultat → Fin de l'expérience (ou nouvelle boucle).
