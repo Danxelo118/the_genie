@@ -33,8 +33,20 @@ Traçabilité des choix : Le système pourrait enregistrer les choix pour offrir
 
 ### Ambiance
 -Inspiration pour l'ambiance :
-![idee-principal.jpg](idee-principal.jpg)
--Inpspiration pour la projection vidéo :
+
+![idee-principal](medias/idee-principal.jpg)
+
+![bladerunnerl](medias/bladerunner.jpg)
+
+![idee-1](medias/idee-1.jpg)
+
+![idee-2l](medias/idee-2.avif)
+
+![idee-4](medias/idee-4.jpg)
+
+![idee-5](medias/idee-5.png)
+
+![idee-6](medias/idee-6.jpg)
 
 -Palette de couleur :
 
