@@ -21,8 +21,16 @@ Chaque vœu déclenche une animation et un dialogue uniques du Génie, avec des 
 
 -Schéma de l'interactivité :
 
-Début → Choix du vœu → Réaction du Génie → Dialogue personnalisé → Résultat → Fin de l'expérience (ou nouvelle boucle).
-Chaque choix mène à un résultat spécifique et à une nouvelle trame narrative.
+```mermaid
+graph TD
+    A[Début] --> B[Choix du vœu]
+    B --> C[Réaction du Génie]
+    C --> D[Dialogue personnalisé]
+    D --> E[Résultat]
+    E --> F[Fin de l'expérience]
+    E --> B[Nouvelle boucle]
+
+```
 
 -Développement narratif :
 Le Génie présente une façade bienveillante, mais chaque vœu révèle une facette différente de sa personnalité, plongeant le visiteur dans une réflexion profonde sur ses désirs et les conséquences de ses actions.
