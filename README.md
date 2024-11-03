@@ -124,7 +124,7 @@ E[Moteur d'Animation 3D] --> G[Système Audio]
 - G est le système audio, diffusant la voix du Génie pour l'immersion sonore.
 
 ### Plantation : 
-![plantation](medias/plantation.png)
+![plantation-genie](medias/plantation-genie.png)
 
 
 ### Sources : 
