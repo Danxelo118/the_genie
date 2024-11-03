@@ -98,6 +98,13 @@ WebSockets : Pour la communication instantanée entre la tablette et le moteur d
 Maya : Pour la création du personnage 3D. 
 Touch Designer : Pour animer l'ambiance interactive et synchroniser l'audio et vidéo.
 
+### Scénarimage :
+![genie-1](medias/genie-1.png)
+![genie-2](medias/genie-2.png)
+![genie-3](medias/genie-3.png)
+![genie-4](medias/genie-4.png)
+
+
 
 ### Sources : 
 - [Syd Mead](https://sydmead.com/)
