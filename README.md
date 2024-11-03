@@ -126,6 +126,11 @@ E[Moteur d'Animation 3D] --> G[Système Audio]
 - D- Câbles du projecteur et système audio
 - E- Projecteurs de lumières (ambiances)
 
+### Simulation : 
+![simulation](medias/simulation.PNG)
+
+
+
 ### Scénarimage :
 ![genie-1](medias/genie-1.png)
 ![genie-2](medias/genie-2.png)
