@@ -124,8 +124,12 @@ E[Moteur d'Animation 3D] --> G[Système Audio]
 - G est le système audio, diffusant la voix du Génie pour l'immersion sonore.
 
 ### Plantation : 
-![plantation-genie](medias/plantation-genie.png)
-
+![plantation-genie-1](medias/plantation-genie-1.png)
+- A- Tablette sans-fil (point central, utilisateur)
+- B- Projection vidéo (3D) (écran large 2m)
+- C- Hauts-parleurs, Projecteur audio
+- D- Câbles du projecteur et système audio
+- E- Projecteurs de lumières (ambiances)
 
 ### Sources : 
 - [Syd Mead](https://sydmead.com/)
