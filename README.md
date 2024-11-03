@@ -123,7 +123,8 @@ E[Moteur d'Animation 3D] --> G[Système Audio]
 - F est le projecteur vidéo qui affiche l'image du Génie.
 - G est le système audio, diffusant la voix du Génie pour l'immersion sonore.
 
-
+### Plantation : 
+![plantation](medias/plantation.png)
 
 
 ### Sources : 
