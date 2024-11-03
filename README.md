@@ -104,6 +104,26 @@ Touch Designer : Pour animer l'ambiance interactive et synchroniser l'audio et v
 ![genie-3](medias/genie-3.png)
 ![genie-4](medias/genie-4.png)
 
+### Synoptique : 
+
+```mermaid
+ graph TD
+A[Tablette/Ordinateur] --> B[Serveur Web]
+B[Serveur Web] --> C[API ChatGPT]
+C[API ChatGPT] --> D[Synthèse vocale]
+D[Synthèse vocale] --> E[Moteur d'Animation 3D]
+E[Moteur d'Animation 3D] --> F[Projecteur Vidéo]
+E[Moteur d'Animation 3D] --> G[Système Audio]
+```
+- A représente la tablette/ordinateur, où l’utilisateur interagit en envoyant une demande.
+- B est le serveur web qui gère les requêtes et les envoie à ChatGPT.
+- C est l'API ChatGPT, qui génère une réponse en texte.
+- D est la synthèse vocale, convertissant le texte en audio.
+- E représente le moteur d'animation 3D qui synchronise l'animation avec l'audio.
+- F est le projecteur vidéo qui affiche l'image du Génie.
+- G est le système audio, diffusant la voix du Génie pour l'immersion sonore.
+
+
 
 
 ### Sources : 
